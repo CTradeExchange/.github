@@ -1,6 +1,6 @@
 #TradeSwitcher
 
-> 中文 | [English]([profile/README.md](https://github.com/CTradeExchange/.github/blob/master/profile/README.md))
+> 中文 | [English](https://github.com/CTradeExchange/.github/blob/master/profile/README.md)
 
 开源数字货币、外汇、股票交易系统，支持多种交易方式，现货撮合、合约全仓、合约隔离仓、杠杆现货、股票、外汇等。
 
