@@ -1,4 +1,4 @@
-# TradeSwitcher
+# MultiMarkets
 
 > English | [中文](https://github.com/CTradeExchange/.github/blob/master/profile/README_zh.md)
 
