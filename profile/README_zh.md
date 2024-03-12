@@ -13,5 +13,7 @@
 
 系统介绍文档[Document](https://github.com/CTradeExchange/docs)。
 
+Telegram：[Telegram](https://t.me/Nana_MultiMarkets).
+
 技术架构图
 ![Diagram](https://github.com/CTradeExchange/.github/blob/master/profile/architecture.png)
