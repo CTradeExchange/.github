@@ -2,7 +2,7 @@
 
 > English | [中文](https://github.com/CTradeExchange/.github/blob/master/profile/README_zh.md)
 
-Open source digital currency, foreign exchange, stock trading system, support a variety of trading methods, spot matching, contract full position, contract isolated position, leveraged spot, stock, foreign exchange, etc.
+Exchange system, trading system white label solution, financial system, foreign exchange trading, stock quotation system, hedging transaction, cryptocurrency quotation system.
 
 - Support multiple trading strategies: contract, leverage, spot, and risk hedging (single-shot trading mode)
 - Rich open interfaces, convenient and fast access to mainstream payment systems and rapid development of business promotion activities
