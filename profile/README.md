@@ -13,5 +13,7 @@ Exchange system, trading system white label solution, financial system, foreign 
 
 System introduction document [Document](https://github.com/CTradeExchange/docs).
 
+Telegram：[Telegram](https://t.me/Nana_MultiMarkets).
+
 Technical Architecture Diagram
 ![Diagram](https://github.com/CTradeExchange/.github/blob/master/profile/architecture.png)
