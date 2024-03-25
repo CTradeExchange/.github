@@ -1,5 +1,5 @@
 # MultiMarkets 
-- Thanks to AllTick for providing financial data support
+> [Thanks to AllTick for providing financial data support](https://github.com/alltick)
 
 > English | [中文](https://github.com/CTradeExchange/.github/blob/master/profile/README_zh.md)
 
