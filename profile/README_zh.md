@@ -1,7 +1,7 @@
 # MultiMarkets
 > 中文 | [English](https://github.com/CTradeExchange/.github/blob/master/profile/README.md)
-> 
-### [感謝 AllTick.co 提供實時行情報價支持](https://github.com/alltick)
+ 
+**[感谢 AllTick.co 提供实时行情报价支持](https://github.com/alltick)**
 
 交易所系统  交易系统白标方案 金融系统 外汇交易 股票行情报价系统 对冲交易 加密货币行情报价系统。
 
