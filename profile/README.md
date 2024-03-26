@@ -1,7 +1,8 @@
 # MultiMarkets 
-> [Thanks to AllTick for providing financial data support](https://github.com/alltick)
 
 > English | [中文](https://github.com/CTradeExchange/.github/blob/master/profile/README_zh.md)
+
+### [Thanks to AllTick.co for providing real-time quotes support](https://github.com/alltick)
 
 Exchange system, trading system white label solution, financial system, foreign exchange trading, stock quotation system, hedging transaction, cryptocurrency quotation system.
 
